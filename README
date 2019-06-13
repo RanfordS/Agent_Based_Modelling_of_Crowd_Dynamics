@@ -1,0 +1,4 @@
+Third year mathematics project for Manchester Metropolitan University (2018-2019).
+The program uses agent based modelling to simulate human crowd behaviour, and is written in Lua using Löve2D.
+
+Includes additional files for advanced features that were ultimately scrapped.
